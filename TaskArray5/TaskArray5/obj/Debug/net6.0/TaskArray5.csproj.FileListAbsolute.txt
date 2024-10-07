@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\bin\Debug\net6.0\TaskArray5.exe
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\bin\Debug\net6.0\TaskArray5.deps.json
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\bin\Debug\net6.0\TaskArray5.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\bin\Debug\net6.0\TaskArray5.dll
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\bin\Debug\net6.0\TaskArray5.pdb
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\obj\Debug\net6.0\TaskArray5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\obj\Debug\net6.0\TaskArray5.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\obj\Debug\net6.0\TaskArray5.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\obj\Debug\net6.0\TaskArray5.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\obj\Debug\net6.0\TaskArray5.sourcelink.json
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\obj\Debug\net6.0\TaskArray5.dll
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\obj\Debug\net6.0\refint\TaskArray5.dll
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\obj\Debug\net6.0\TaskArray5.pdb
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\obj\Debug\net6.0\TaskArray5.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\SecondProject\SecondProject\TaskArray5\TaskArray5\obj\Debug\net6.0\ref\TaskArray5.dll
